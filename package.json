@@ -1,0 +1,30 @@
+{
+  "name": "konsa-lec",
+  "version": "1.0.0",
+  "description": "Simple web app to get the location of current lecture. ",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aayushbg/konsa-lec.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Aayush Gondaliya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aayushbg/konsa-lec/issues"
+  },
+  "homepage": "https://github.com/aayushbg/konsa-lec#readme",
+  "dependencies": {
+    "parcel": "^2.13.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
